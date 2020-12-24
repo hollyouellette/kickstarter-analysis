@@ -14,6 +14,9 @@ Based on this, we see that music & theaters have the greatest number of successf
 
 Knowing that you are interested in creating a kickstart specifically within theatre, we can take a closer look at which Kickstarters within this parent outcome have seen the most success: 
 
+![](https://raw.githubusercontent.com/hollyouellette/kickstarter-analysis/main/Analysis%20of%20Theater%20Kickstarter.png)
+
+These findings indicate that Plays specifically have seen the greatest success, and also historically no cancellations in the US. 
 
 
 
