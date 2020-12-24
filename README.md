@@ -10,7 +10,10 @@ First, we will review the overall success and failures of kickstarters in the US
 
 ![](https://raw.githubusercontent.com/hollyouellette/kickstarter-analysis/main/Parent%20Category%20Outcomes.png)
 
-Based on this, we see that music & theaters have the greatest number of successful outcomes (success is defined by either meeting or exceeding fundraising targets) 
+Based on this, we see that music & theaters have the greatest number of successful outcomes (success is defined by either meeting or exceeding fundraising targets). 
+
+Knowing that you are interested in creating a kickstart specifically within theatre, we can take a closer look at which Kickstarters within this parent outcome have seen the most success: 
+
 
 
 
