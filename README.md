@@ -4,4 +4,9 @@ Analysis on kickstarter data to uncover trends to inform the client's kickstarte
 # Findings as requested by Louise
 
 _Louise please note that all findings presented can be found in the spreadsheet linked below_:
-> [data-1-1-3-StarterBook.xlsx](kickstarter-analysis/data-1-1-3-StarterBook.xlsx)
+> [KickStarter Dataset](kickstarter-analysis/data-1-1-3-StarterBook.xlsx)
+
+![i want it](./kickstarter-analysis/Parent Category Outcomes.png)
+
+
+
