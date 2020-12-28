@@ -1,25 +1,30 @@
-# An Analysis of Kickstarter Campaigns
-Analysis on kickstarter data to uncover trends to inform the client's kickstarter strategy.
+# Kickstarting with Excel
 
-# Findings as requested by Louise
+## Overview of Project
 
-_Louise please note that all findings presented can be found in the spreadsheet linked below_:
-> [KickStarter Dataset](kickstarter-analysis/data-1-1-3-StarterBook.xlsx)
+### Purpose
 
-First, we will review the overall success and failures of kickstarters in the US by category: 
+This Kickstarter Analysis was initiated to support a client, Louise, in developing a successful Kickstarter Campaign in Theatre based on a dataset of previous Kickstarter Campaigns. Once Louise Launched her campaign for her play, _Fever_, in a short amount of time she came close to her fundraising goal. After this, Louise requested analysis on the success, failure and cancellations of previous campaigns in relation to their launch dates and their funding goals.
 
-![](https://raw.githubusercontent.com/hollyouellette/kickstarter-analysis/main/Parent%20Category%20Outcomes.png)
+## Analysis and Challenges
 
-Based on this, we see that music & theaters have the greatest number of successful outcomes (success is defined by either meeting or exceeding fundraising targets). 
+### Analysis of Outcomes Based on Launch Date
 
-Knowing that you are interested in creating a kickstart specifically within theatre, we can take a closer look at which Kickstarters within this parent outcome have seen the most success: 
+![](https://github.com/hollyouellette/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
-![](https://raw.githubusercontent.com/hollyouellette/kickstarter-analysis/main/Analysis%20of%20Theater%20Kickstarter.png)
+### Analysis of Outcomes Based on Goals
 
-These findings indicate that Plays specifically have seen the greatest success, and also historically no cancellations in the US. 
+### Challenges and Difficulties Encountered
 
+## Results
 
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
 
 
 
