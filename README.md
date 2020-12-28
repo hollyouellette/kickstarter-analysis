@@ -30,7 +30,7 @@ In the analysis of Outcomes Based on Goals, adjusted the "under 1000" row to < 1
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. The month of May  and June saw the greatest amount of successful kickstarter campagins. From this, we can conclude that launching a Kickstarter campaign in May/June would increase the likelihood of that capaign meeting and/or exceeding it's fundraising goal. 
-2. Failed theater outcomes do not see significant fluctuations based on the launch date. From this we can concluded that the theatre kickstarters that failures were likely the result of a different variable or a combination of the launch date and another factor. 
+2. Failed theater outcomes do not see significant fluctuations based on the launch date. From this we can concluded that the theatre kickstarters that failures were likely the result of a different variable or a combination of the launch date and another factor. I advise digging further into the specific associations with the failed kickstarters to discover other potential relationships. 
 
 - What can you conclude about the Outcomes based on Goals?
 Plays with fundraising goals over $45,000 saw the highest failure and the lowest success. 
@@ -40,6 +40,10 @@ Plays with fundraising goals of less that $4999 and $35,000 to $44,999 saw the g
 - What are some limitations of this dataset?
 
 Data ends in 2017
+It contains a lot of data that requires sifting
+UNIX timestamps 
+it's an existing dataset - might not contain the data that we are looking for - tayloring our questions ot he fdata that exists.
+this data only accounts for kickstarters that made it to the platform but does not include kickstarter ideas that never went live
 
 - What are some other possible tables and/or graphs that we could create?
 - Backers by Category & Subcategory  
