@@ -4,7 +4,7 @@
 
 ### Purpose
 
-This Kickstarter Analysis was initiated to support a client, Louise, in developing a successful Kickstarter Campaign in Theatre based on a dataset of previous Kickstarter Campaigns. Once Louise Launched her campaign for her play, _Fever_, in a short amount of time she came close to her fundraising goal. After this, Louise requested analysis on the success, failure and cancellations of previous campaigns in relation to their launch dates and their funding goals.
+This Kickstarter Analysis was initiated to support a client, Louise, in developing a successful Kickstarter Campaign based on a Kickstarter data from 2009-2017. The purpose of the anlaysis below is to determine the success, failure and cancellations of previous Kickstarter Campaigns in the "Theatre" catergory in relaton to their launch dates and fundraiding goals.
 
 ## Analysis and Challenges
 
@@ -18,6 +18,10 @@ This Kickstarter Analysis was initiated to support a client, Louise, in developi
 
 ### Challenges and Difficulties Encountered
 
+In completing this analysis, there were three mail challenges that were encountered:
+
+* **Aggregrated Category and Subcategory**
+  * The way that the data was presented in the orgininal dataset did not allow for analysis of subcategories within their parent categories. To solve for this, additional columns were added to the Kickstarter sheet using "Text to Columns" to separate the "Parent Category" from the "Subcategory". This enable use to 
 Original data set did not include subcategories as it's own metric - isolated this in order to analyze the outcomes based on goals specifically within the subcategory of plays.
 
 Isolating the data required for this analysis from the orginial dataset. 
