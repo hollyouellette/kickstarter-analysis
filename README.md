@@ -11,10 +11,13 @@ This Kickstarter Analysis was initiated to support a client, Louise, in developi
 ### Analysis of Outcomes Based on Launch Date
 
 ![](https://github.com/hollyouellette/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
+_figure 1.1. This line chart showcases the Successful, Failed and Canceled outcomes of Theatre Kickstarters in relation to the month that they were launched._
 
 ### Analysis of Outcomes Based on Goals
 
 ![](https://github.com/hollyouellette/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
+
+_figure 1.2. This line chart showcases the percentage of Successful, Failed and Canceled Outcomes of Kickstarters of the Plays Subcatogory in relation to their fundraising goal._
 
 ### Challenges and Difficulties Encountered
 
@@ -30,11 +33,14 @@ Prior to completing this analysis, there were two main challenges with the Kicks
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. The month of May  and June saw the greatest amount of successful kickstarter campagins. From this, we can conclude that launching a Kickstarter campaign in May/June would increase the likelihood of that capaign meeting and/or exceeding it's fundraising goal. 
-2. Failed theater outcomes do not see significant fluctuations based on the launch date. From this we can concluded that the theatre kickstarters that failures were likely the result of a different variable or a combination of the launch date and another factor. I advise digging further into the specific associations with the failed kickstarters to discover other potential relationships. 
+### Conclusions Based on Launch Date
 
-- What can you conclude about the Outcomes based on Goals?
+Based on the data shown in _figure 1.1_ I have drawn the following two conclusions:
+  1. **Kickstarters launched in the months of May and June are those most likely to be successful.** The data clearly showcases a significant increase in successful Kickstarter Camptaigns that lauched in the months of May and June. 
+ 2. **Failed and cancelled theatre kickstarters do not vary significantly based on their launch date.** Based on this dataset, I conclude that the failed and canceled kickstarters do not have a relationship to the month they were launched. As such, further investigation would be required to discover what other variables in the dataset inlfuence the "failed" and "canceled" outcomes of Theater Kickstarters. 
+
+### Conclusions about the Outcomes based on Goals
+
 Plays with fundraising goals over $45,000 saw the highest failure and the lowest success. 
 Plays with fundraising goals between $5000 - $24,999 saw nearly 50/50 success: failure
 Plays with fundraising goals of less that $4999 and $35,000 to $44,999 saw the greatest success.
