@@ -50,7 +50,12 @@ Based on the data shown in _Figure 1.2_ I have drawn the following conclusions:
 
 Based on this assignment, I would identify the following as limitations to this dataset:
 
-Data ends in 2017
+ 1. **Recency of Data**
+   This dataset contains information from Kickstarters from 2009 to 2017. This 9 year window covers signiviant social and technological changes. It is possibile that the dataset contains statistical relationships that might no longer be relavent in 2020, 2021 or that could potential skew relevant data.
+ 
+ 2. **UNIX Timestamps**
+
+ 3. **Kickstarters that never went live**
 It contains a lot of data that requires sifting
 UNIX timestamps 
 it's an existing dataset - might not contain the data that we are looking for - tayloring our questions ot he fdata that exists.
