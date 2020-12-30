@@ -21,9 +21,11 @@ This Kickstarter Analysis was initiated to support a client, Louise, in developi
 Prior to completing this analysis, there were two main challenges with the Kickstarter Data set that needed to be addressed and solved:
 
 * **UNIX Timestamps**
- * In the Kickstarter Dataset provided, the Launch and Completion dates were showcased as UNIX Timestamps. In order to be able to produce a visual that could be read and understood as efficiently as possible, columns containing the conversions of "Date Created" and "Date Ended" to a short date format was essential. From here, the date could be isolated and analyzed in relation to Theatre Campaign outcomes.
+
+  * In the Kickstarter Dataset provided, the Launch and Completion dates were showcased as UNIX Timestamps. In order to be able to produce a visual that could be read and understood as efficiently as possible, columns containing the conversions of "Date Created" and "Date Ended" to a short date format was essential. From here, the date could be isolated and analyzed in relation to Theatre Campaign outcomes.
 
 * **Aggregrated Category and Subcategory**
+
   * The way that the data was presented in the orgininal dataset did not allow for analysis of subcategories within their parent categories. To solve for this, additional columns were added to the Kickstarter sheet using "Text to Columns" to separate the "Parent Category" from the "Subcategory". This enabled the collection of outcome and goal data for the "plays" subcategory. 
 
 ## Results
