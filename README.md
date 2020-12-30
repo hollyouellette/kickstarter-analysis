@@ -4,20 +4,20 @@
 
 ### Purpose
 
-This Kickstarter Analysis was initiated to support a client, Louise, in developing a successful Kickstarter Campaign based on a Kickstarter data from 2009-2017. The purpose of the anlaysis below is to determine the success, failure and cancellations of previous Kickstarter Campaigns in the "Theatre" catergory in relaton to their launch dates and fundraiding goals.
+This Kickstarter Analysis was initiated to support a client, Louise, in developing a successful Kickstarter Campaign based on a Kickstarter data from 2009-2017. The purpose of the anlaysis below is to determine the success, failure and cancellations of previous Kickstarter Campaigns in the "Theatre" catergory in relaton to their launch dates and fundraiding goals. This analysis will be used to inform Louise's launch date and fundraising goal for her upcoming Kickstarter. 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
 ![](https://github.com/hollyouellette/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
-_figure 1.1. This line chart showcases the Successful, Failed and Canceled outcomes of Theatre Kickstarters in relation to the month that they were launched._
+_Figure 1.1. This line chart showcases the Successful, Failed and Canceled outcomes of Theatre Kickstarters in relation to the month that they were launched._
 
 ### Analysis of Outcomes Based on Goals
 
 ![](https://github.com/hollyouellette/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
-_figure 1.2. This line chart showcases the percentage of Successful, Failed and Canceled Outcomes of Kickstarters of the Plays Subcatogory in relation to their fundraising goal._
+_Figure 1.2. This line chart showcases the percentage of Successful, Failed and Canceled Outcomes of Kickstarters of the Plays Subcatogory in relation to their fundraising goal._
 
 ### Challenges and Difficulties Encountered
 
@@ -35,17 +35,20 @@ Prior to completing this analysis, there were two main challenges with the Kicks
 
 ### Conclusions Based on Launch Date
 
-Based on the data shown in _figure 1.1_ I have drawn the following two conclusions:
-  1. **Kickstarters launched in the months of May and June are those most likely to be successful.** The data clearly showcases a significant increase in successful Kickstarter Camptaigns that lauched in the months of May and June. 
- 2. **Failed and cancelled theatre kickstarters do not vary significantly based on their launch date.** Based on this dataset, I conclude that the failed and canceled kickstarters do not have a relationship to the month they were launched. As such, further investigation would be required to discover what other variables in the dataset inlfuence the "failed" and "canceled" outcomes of Theater Kickstarters. 
+Based on the data shown in _Figure 1.1_ I have drawn the following two conclusions:
+  1. **Theater Kickstarters launched in the months of May and June are those most likely to be successful.** The data clearly showcases a significant increase in successful Theater Kickstarter Camptaigns that lauched in the months of May and June. 
+  2. **Failed and cancelled theatre kickstarters do not vary significantly based on their launch date.** Based on this dataset, I conclude that the failed and canceled Theater Kickstarters do not have a relationship to the month they were launched. As such, further investigation would be required to discover what other variables in the dataset inlfuence the "failed" and "canceled" outcomes of Theater Kickstarters. 
 
 ### Conclusions about the Outcomes based on Goals
 
-Plays with fundraising goals over $45,000 saw the highest failure and the lowest success. 
-Plays with fundraising goals between $5000 - $24,999 saw nearly 50/50 success: failure
-Plays with fundraising goals of less that $4999 and $35,000 to $44,999 saw the greatest success.
+Based on the data shown in _Figure 1.2_ I have drawn the following conclusions:
+ 1. **Plays with fundraising goals over $45,000 saw the highest failure and the lowest success.** From this I concluded that plays with fundraising goals over $45,000 are significantly less likely to succeed.  
+ 2. **Plays with fundraising goals between $5000-$24,999 saw nearly 50/50 success:failure.** Based on this data, I conclude that setting fundraising goal for Play Kickstarters has a significant risk for failure. I would advise further investigation into other variable realtionships to see if there are other factors that might influence the success or failure of Play Kickstarters within this range of fundraising goals. 
+ 3. **Plays with fundraising goals of less that $4999 saw the greatest success.** From this I conclude that Play Kickstarters with a fundraising goal below $5000 have a high likelyhood of success.
 
-- What are some limitations of this dataset?
+### Limitations of this Dataset
+
+Based on this assignment, I would identify the following as limitations to this dataset:
 
 Data ends in 2017
 It contains a lot of data that requires sifting
