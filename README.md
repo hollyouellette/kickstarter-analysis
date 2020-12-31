@@ -36,14 +36,19 @@ Prior to completing this analysis, there were two main challenges encountered wi
 ### Conclusions Based on Launch Date
 
 Based on the data shown in _Figure 1.1_ I have drawn the following two conclusions:
+
   1. **Theater Kickstarters launched in the months of May and June are those most likely to be successful.** The data clearly showcases a significant increase in successful Theater Kickstarter Camptaigns that lauched in the months of May and June. 
+  
   2. **Failed and cancelled theatre kickstarters do not vary significantly based on their launch date.** Based on this dataset, I conclude that the failed and canceled Theater Kickstarters do not have a relationship to the month that they were launched. As such, further investigation would be required to discover what other variables in the dataset inlfuence the "failed" and "canceled" outcomes of Theater Kickstarters. 
 
 ### Conclusions about the Outcomes based on Goals
 
 Based on the data shown in _Figure 1.2_ I have drawn the following conclusions:
+
  1. **Plays with fundraising goals over $45,000 saw the highest failure and the lowest success.** From this I concluded that plays with fundraising goals over $45,000 are significantly less likely to succeed.  
+ 
  2. **Plays with fundraising goals between $5000-$24,999 saw nearly 50/50 success:failure.** Based on this data, I conclude that Play Kickstarters with fundraising goals between $5000-$24,999 have a significant risk for failure. I would advise further investigation into other variables to see if there are other factors that might influence the success or failure of Play Kickstarters within this range of fundraising goals. 
+ 
  3. **Plays with fundraising goals of less that $4999 saw the greatest success.** From this I conclude that Play Kickstarters with a fundraising goal below $5000 have a high likelyhood of success.
 
 ### Limitations of this Dataset
