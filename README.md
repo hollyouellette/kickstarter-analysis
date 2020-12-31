@@ -51,17 +51,18 @@ Based on the data shown in _Figure 1.2_ I have drawn the following conclusions:
 Based on this assignment, I would identify the following as limitations to this dataset:
 
  1. **Recency of Data**
-   This dataset contains information from Kickstarters from 2009 to 2017. This 9 year window covers signiviant social and technological changes. It is possibile that the dataset contains statistical relationships that might no longer be relavent in 2020, 2021 or that could potential skew relevant data.
- 
- 2. **UNIX Timestamps**
+   This dataset contains information from Kickstarters from 2009 to 2017. This 9 year window covers signiviant social and technological changes. It is possibile that the dataset contains statistical relationships that might no longer be relavent for 2020/2021 or that could potential skew relevant data.
+   
+ 2. **Kickstarters that never went live**
+   This could be described as a type of sampling bias in that this dataset is only able to showcase Kickstarters that were canceled that made it up on the platform. It is limited in that it does not account for/capture Kickstarter Campaigns that were canceled prior to going live on the platform.
 
- 3. **Kickstarters that never went live**
-It contains a lot of data that requires sifting
-UNIX timestamps 
-it's an existing dataset - might not contain the data that we are looking for - tayloring our questions ot he fdata that exists.
-this data only accounts for kickstarters that made it to the platform but does not include kickstarter ideas that never went live
+### Other Possible Tables and or/graphs that we could create?
 
-- What are some other possible tables and/or graphs that we could create?
+In examining the relationship between the outcomes of Theatre Kickstarters in relation to their Launch Date and Fundraising Goal, we could also greate the following tables and graphs:
+
+1. Average Donation for Theater Kickstarters Based on Launch Date - Filtered by Outcome
+
+2. Average Backer Count Based on Goals - Filtered by Outcome
 - Backers by Category & Subcategory  
 - Country by Outcomes filtered by Category 
 - Average donation by Category
