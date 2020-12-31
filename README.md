@@ -66,8 +66,9 @@ In examining the relationship between the outcomes of Theatre Kickstarters in re
 2. **Theater/Play Outcomes Based on Backers and Launch Date** 
  This table/graph visualizes, by outcome, the average number of backers based on launch date. This would enable us to explore whether Theater/Play Kickstarters are historically more likely or less likely to gain backers depending on what month the kickstarter is launched.
  
-3. **Theatre Outcomes based on Campaign Length**
-
+3. **Outcomes based on Campaign Length - Filtered by Campaign Goal**
+ This table/graph would enable us to explore the historical impact that the campaign length of Play Kickstarters has on their outcome. This could help us dig in further to the 50:50 successful:failed outcomes of Kickstarter Plays with goals between $5000 - $25000. 
+ 
 4. **Outcomes Based on Goal, Fitered by Country**
-
+ This table/graph would be the same as that in _Figure 1.2_ with a "Country" filter introduced to see if specific countries might see more success in relation to certain goal ranges.
 
