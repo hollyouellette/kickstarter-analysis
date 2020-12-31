@@ -56,7 +56,7 @@ Based on this assignment, I would identify the following as limitations to this 
  2. **Kickstarters that never went live**
    This could be described as a type of sampling bias in that this dataset is only able to showcase the Kickstarters that were canceled after going live on the platform. It is a limitation because it does not account for/capture Kickstarter Campaigns that were canceled prior to going live on the Kickstarter platform.
 
-### Other Possible Tables and or/graphs that we could create?
+### Other Possible Tables and or/Graphs that we could Create
 
 In examining the relationship between the outcomes of Theatre Kickstarters in relation to their Launch Date and Fundraising Goal, we could also greate the following tables and graphs:
 
