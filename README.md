@@ -60,10 +60,14 @@ Based on this assignment, I would identify the following as limitations to this 
 
 In examining the relationship between the outcomes of Theatre Kickstarters in relation to their Launch Date and Fundraising Goal, we could also greate the following tables and graphs:
 
-1. Average Donation for Theater Kickstarters Based on Launch Date - Filtered by Outcome
+1. **Theater Outcomes Based on Average Donation and Launch Date**
+ This table/graph visualizes, by outcome, the average donation per backer based on launch date. This would enable us to explore whether backers are historically more likely to donate more or less depending on what month the kickstarter is launched.
+ 
+2. **Theater/Play Outcomes Based on Backers and Launch Date** 
+ This table/graph visualizes, by outcome, the average number of backers based on launch date. This would enable us to explore whether Theater/Play Kickstarters are historically more likely or less likely to gain backers depending on what month the kickstarter is launched.
+ 
+3. **Theatre Outcomes based on Campaign Length**
 
-2. Average Backer Count Based on Goals - Filtered by Outcome
-- Backers by Category & Subcategory  
-- Country by Outcomes filtered by Category 
-- Average donation by Category
+4. **Outcomes Based on Goal, Fitered by Country**
+
 
