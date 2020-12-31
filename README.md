@@ -50,25 +50,25 @@ Based on the data shown in _Figure 1.2_ I have drawn the following conclusions:
 
 Based on this assignment, I would identify the following as limitations to this dataset:
 
- 1. **Recency of Data**
+ 1. **Recency of Data.**
    This dataset contains information from Kickstarters from 2009 to 2017. This 9 year window covers signiviant social and technological changes. It is possibile that the dataset contains statistical relationships that might no longer be relavent for 2020/2021 or that could potential skew relevant data from the more recent years.
    
- 2. **Kickstarters that never went live**
+ 2. **Kickstarters that never went live.**
    This could be described as a type of sampling bias in that this dataset is only able to showcase the Kickstarters that were canceled after going live on the platform. It is a limitation because it does not account for/capture Kickstarter Campaigns that were canceled prior to going live on the Kickstarter platform.
 
 ### Other Possible Tables and or/Graphs that we could Create
 
 In examining the relationship between the outcomes of Theatre Kickstarters in relation to their Launch Date and Fundraising Goal, we could also greate the following tables and graphs:
 
-1. **Theater Outcomes Based on Average Donation and Launch Date**
+1. **Theater Outcomes Based on Average Donation and Launch Date.**
  This table/graph visualizes, by outcome, the average donation made based on launch date. This would enable us to explore whether backers are historically more likely to donate more or less depending on what month the Kickstarter is launched.
  
-2. **Theater/Play Outcomes Based on Backers and Launch Date** 
+2. **Theater/Play Outcomes Based on Backers and Launch Date.** 
  This table/graph visualizes, by outcome, the average number of backers based on launch date. This would enable us to explore whether Theater/Play Kickstarters are historically more likely or less likely to gain backers depending on what month the Kickstarter is launched.
  
-3. **Outcomes based on Campaign Length - Filtered by Campaign Goal**
+3. **Outcomes based on Campaign Length - Filtered by Campaign Goal.**
  This table/graph would enable us to explore the historical realationship between the campaign length of Play Kickstarters and their outcome. This could help us dig in further to the 50:50 successful:failed outcomes of Kickstarter Plays with goals between $5000 - $25000. 
  
-4. **Outcomes Based on Goal, Fitered by Country**
+4. **Outcomes Based on Goal, Fitered by Country.**
  This table/graph would be the same as that in _Figure 1.2_ with a "Country" filter introduced to see if specific countries might see more success in relation to certain goal ranges.
 
