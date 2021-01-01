@@ -37,43 +37,59 @@ Prior to completing this analysis, there were two main challenges encountered wi
 
 Based on the data shown in _Figure 1.1_ I have drawn the following two conclusions:
 
-  1. **Theater Kickstarters launched in the months of May and June are those most likely to be successful.** The data clearly showcases a significant increase in successful Theater Kickstarter Campaigns that launched in the months of May and June. 
+  1. **Theater Kickstarters launched in the months of May and June are those most likely to be successful.** 
   
-  2. **Failed and cancelled Theatre Kickstarters do not vary significantly based on their launch date.** Based on this dataset, I conclude that the failed and canceled Theater Kickstarters do not have a relationship to the month that they were launched. As such, further investigation would be required to discover what other variables in the dataset influence the "failed" and "canceled" outcomes of Theater Kickstarters. 
+        The data clearly showcases a significant increase in successful Theater Kickstarter Campaigns that launched in the months of May and June. 
+  
+  2. **Failed and cancelled Theatre Kickstarters do not vary significantly based on their launch date.** 
+  
+       Based on this dataset, I conclude that the failed and canceled Theater Kickstarters do not have a relationship to the month that they were launched. As such, further investigation would be required to discover what other variables in the dataset influence the "failed" and "canceled" outcomes of Theater Kickstarters. 
 
 ### Conclusions about the Outcomes based on Goals
 
 Based on the data shown in _Figure 1.2_ I have drawn the following conclusions:
 
- 1. **Plays with fundraising goals over $45,000 saw the highest failure and the lowest success.** From this I concluded that plays with fundraising goals over $45,000 are significantly less likely to succeed.  
+ 1. **Plays with fundraising goals over $45,000 saw the highest failure and the lowest success.** 
  
- 2. **Plays with fundraising goals between $5000-$24,999 saw nearly 50/50 success:failure.** Based on this data, I conclude that Play Kickstarters with fundraising goals between $5000-$24,999 have a significant risk for failure. I would advise further investigation into other variables to see if there are other factors that might influence the success of Play Kickstarters within this range of fundraising goals. 
+      From this I concluded that plays with fundraising goals over $45,000 are significantly less likely to succeed.  
  
- 3. **Plays with fundraising goals of less that $4999 saw the greatest success.** From this I conclude that Play Kickstarters with a fundraising goal below $5000 have a high likelihood of success.
+ 2. **Plays with fundraising goals between $5000-$24,999 saw nearly 50/50 success:failure.** 
+ 
+      Based on this data, I conclude that Play Kickstarters with fundraising goals between $5000-$24,999 have a significant risk for failure. I would advise further investigation into other variables to see if there are other factors that might influence the success of Play Kickstarters within this range of fundraising goals. 
+ 
+ 3. **Plays with fundraising goals of less that $4999 saw the greatest success.** 
+ 
+      From this I conclude that Play Kickstarters with a fundraising goal below $5000 have a high likelihood of success.
 
 ### Limitations of this Dataset
 
 Based on this assignment, I would identify the following as limitations to this dataset:
 
  1. **Recency of Data.**
-   This dataset contains information from Kickstarters from 2009 to 2017. This 9 year window covers significant social and technological changes. It is possible that the dataset contains statistical relationships that might no longer be relevant for 2020/2021 or that could potential skew relevant data from the more recent years.
+   
+      This dataset contains information from Kickstarters from 2009 to 2017. This 9 year window covers significant social and technological changes. It is possible that the dataset contains statistical relationships that might no longer be relevant for 2020/2021 or that could potential skew relevant data from the more recent years.
    
  2. **Kickstarters that never went live.**
-   This could be described as a type of sampling bias in that this dataset is only able to showcase the Kickstarters that were canceled after going live on the platform. It is a limitation because it does not account for/capture Kickstarter Campaigns that were canceled prior to going live on the Kickstarter platform.
+  
+      This could be described as a type of sampling bias in that this dataset is only able to showcase the Kickstarters that were canceled after going live on the platform. It is a limitation because it does not account for/capture Kickstarter Campaigns that were canceled prior to going live on the Kickstarter platform.
 
 ### Other Possible Tables and or/Graphs that we could Create
 
 In examining the relationship between the outcomes of Theatre Kickstarters in relation to their Launch Date and Fundraising Goal, we could also create the following tables and graphs:
 
 1. **Theater Outcomes Based on Average Donation and Launch Date.**
- This table/graph visualizes, by outcome, the average donation made based on launch date. This would enable us to explore whether backers are historically more likely to donate more or less depending on what month the Kickstarter is launched.
+ 
+     This table/graph visualizes, by outcome, the average donation made based on launch date. This would enable us to explore whether backers are historically more likely to donate more or less depending on what month the Kickstarter is launched.
  
 2. **Theater/Play Outcomes Based on Backers and Launch Date.** 
- This table/graph visualizes, by outcome, the average number of backers based on launch date. This would enable us to explore whether Theater/Play Kickstarters are historically more likely or less likely to gain backers depending on what month the Kickstarter is launched.
+ 
+     This table/graph visualizes, by outcome, the average number of backers based on launch date. This would enable us to explore whether Theater/Play Kickstarters are historically more likely or less likely to gain backers depending on what month the Kickstarter is launched.
  
 3. **Outcomes based on Campaign Length - Filtered by Campaign Goal.**
- This table/graph would enable us to explore the historical relationship between the campaign length of Play Kickstarters and their outcome. This could help us dig in further to the 50:50 successful:failed outcomes of Kickstarter Plays with goals between $5000 - $25000. 
+ 
+     This table/graph would enable us to explore the historical relationship between the campaign length of Play Kickstarters and their outcome. This could help us dig in further to the 50:50 successful:failed outcomes of Kickstarter Plays with goals between $5000 - $25000. 
  
 4. **Outcomes Based on Goal, Filtered by Country.**
- This table/graph would be the same as that in _Figure 1.2_ with a "Country" filter introduced to see if specific countries might see more success in relation to certain goal ranges.
+ 
+     This table/graph would be the same as that in _Figure 1.2_ with a "Country" filter introduced to see if specific countries might see more success in relation to certain goal ranges.
 
