@@ -23,13 +23,13 @@ _Figure 1.2. This line chart showcases the percentage of Successful, Failed and 
 
 Prior to completing this analysis, there were two main challenges encountered with the Kickstarter Data set that needed to be addressed and solved:
 
-* **UNIX Timestamps**
+1. **UNIX Timestamps**
 
-  * In the Kickstarter Dataset provided, the Launch and Completion dates were showcased as UNIX Timestamps. In order to be able to produce an effective visual that could be read and understood efficiently, columns containing the conversions of "Date Created" and "Date Ended" to a short date format was essential. From here, the date could be isolated and analyzed in relation to Theatre Campaign outcomes.
+     In the Kickstarter Dataset provided, the Launch and Completion dates were showcased as UNIX Timestamps. In order to be able to produce an effective visual that could be read and understood efficiently, columns containing the conversions of "Date Created" and "Date Ended" to a short date format was essential. From here, the date could be isolated and analyzed in relation to Theatre Campaign outcomes.
 
-* **Aggregated Category and Subcategory**
+2. **Aggregated Category and Subcategory**
 
-  * The data formatting in the original dataset did not allow for analysis of isolated subcategories. To solve for this, additional columns were added to the Kickstarter sheet using the "Text to Columns" function to separate the "Parent Category" from the "Subcategory". This enabled the collection of outcome and goal data for the "plays" subcategory specifically. 
+     The data formatting in the original dataset did not allow for analysis of isolated subcategories. To solve for this, additional columns were added to the Kickstarter sheet using the "Text to Columns" function to separate the "Parent Category" from the "Subcategory". This enabled the collection of outcome and goal data for the "plays" subcategory specifically. 
 
 ## Results
 
